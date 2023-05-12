@@ -1,2 +1,2 @@
 # module.io
-output: https://strange98350.github.io/module2-solution/
+output: https://sreya3027.github.io/module.io/
