@@ -2,9 +2,9 @@
    box-sizing: border-box;
 }
 body {
-    background-color: #ABF8F5;
+    background-color: #E8F6EF;
 }
-.rw1 {
+.rw {
    margin-top: 5%;
   margin-bottom: 5%;
 }
@@ -13,11 +13,11 @@ h1{
    text-align: center;
   color: black;
 }
-.box1 {
+.bx{
     width: 100%;
   overflow: none;
 }
-h2 {
+h2{
     background-color: #F2EB78;
     overflow: none;
   text-align: center;
@@ -32,7 +32,7 @@ h2 {
   position: relative;
 }
 
-p {
+p{
    border: 5px solid black;
   width: 90%;
   height: auto;
@@ -41,7 +41,7 @@ p {
   font-size: 25px;
   padding: 2%;
   padding-top: 55px;
-  background-color: rgb(100,205,300);
+  background-color: rgb(150,205,250);
 }
 
 @media(min-width: 992px)
